@@ -32,7 +32,7 @@ To preface this section, there will be no concrete detailed network design as of
 
 ## Network Bankruptcy
 
-It has been put forth by @jreighley that [Free PUTs aren't going to fly](https://forum.safenetwork.io/t/free-gets-arent-going-to-fly/5836). There are a couple points to the effect that they may, but many of the solutions chip away at the problem, and don't provide a paradigm shift to counteract the effect.
+It has been put forth by @jreighley that [Free GETs aren't going to fly](https://forum.safenetwork.io/t/free-gets-arent-going-to-fly/5836). There are a couple points to the effect that they may, but many of the solutions chip away at the problem, and don't provide a paradigm shift to counteract the effect.
 
 Assuming that the premise of and responses to the argument are understood, there still remains one big unanswered problem - GETs are free *and* can generate income. If the economics that I understand still hold, this will not work. Namely that you can't get something for nothing.
 
